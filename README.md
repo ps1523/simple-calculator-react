@@ -30,7 +30,7 @@ It’s designed for learning React, showcasing best practices, and serving as a 
 ## 🖥️ Preview
 
 > **Live Demo:**  
-> [https://ps1523.github.io/simple-calculator-react/](https://ps1523.github.io/simple-calculator-react/)  
+> [https://ps1523.github.io/simple-calculator-react/](https://simple-calculator-react-rfcjnhodu-ps1523s-projects.vercel.app)  
 > *(If not live, deploy using GitHub Pages or your preferred platform)*
 
 ![Calculator Screenshot](./preview.png)
