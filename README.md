@@ -33,8 +33,8 @@ It’s designed for learning React, showcasing best practices, and serving as a 
 > [https://ps1523.github.io/simple-calculator-react/](https://ps1523.github.io/simple-calculator-react/)  
 > *(If not live, deploy using GitHub Pages or your preferred platform)*
 
-![Calculator Screenshot 1](./assets/calculator-preview-1.png)
 ![Calculator Screenshot 2](./assets/calculator-preview-2.png)
+![Calculator Screenshot 2](./assests/screenshot-preview-2.png)
 
 ---
 
